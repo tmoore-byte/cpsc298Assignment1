@@ -1,2 +1,4 @@
 # cpsc298Assignment1
-my first assignment
+Thomas Moore
+2318524
+I used Zybook and collaborated with classmates Andy Anguiano and Jessie Roux.
